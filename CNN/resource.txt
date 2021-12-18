@@ -13,3 +13,5 @@ Dense() :
     argument, kernel is a weights matrix created by the layer, and bias is a bias vector
     created by the layer (only applicable if use_bias is True). These are all attributes
     of Dense.
+counting params : https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889#5137
+channels

@@ -7,7 +7,8 @@ import cv2
 from PIL import ImageGrab, Image
 import numpy as np
 
-model = load_model('digit_recog.h5')
+# model = load_model('digit_recog.h5')
+model = load_model('digit_recog_lenet.h5')
 
 def get_handle():
     toplist = []
@@ -54,7 +55,7 @@ def predict_digit(img):
     Argument of function is PIL Image"""
     img.save('test.jpg')
     preprocessed_image = preprocessing_image()
-    print(preprocessed_image)
+    # print(preprocessed_image)
     # print(preprocessed_image.shape)
     img = preprocessed_image.reshape(1, 28, 28, 1)
     # print(img)
