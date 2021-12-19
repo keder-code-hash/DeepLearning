@@ -15,3 +15,6 @@ Dense() :
     of Dense.
 counting params : https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889#5137
 channels
+
+https://d2l.ai
+https://machinelearningmastery.com
