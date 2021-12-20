@@ -18,3 +18,5 @@ channels
 
 https://d2l.ai
 https://machinelearningmastery.com
+https://github.com/ss-is-master-chief/MNIST-Digit.Recognizer-CNNs/blob/master/MNIST-Hand.Written.Digit.Recognition-CNN.ipynb
+
