@@ -1,3 +1,9 @@
+dataset :
+training : https://storage.googleapis.com/kagglesdsdata/competitions/3362/31148/train.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1640149257&Signature=Nu7l7S4GpQIc2vLRDe9pAm8HiEidGS2QYC5ZXyGdDllPDADPuUocT7h877hJQvlJbkJViarPHIzLZ8mY4BAgAV8DR2FHbyum9NyOI6H03HgC7%2FDGD2C3WdfHWTjwGi6YhKBKJqQgOm5PqYFZr1kpJVWHq6pxQk%2BfVVFWj0hiTmvQgfB1iIwfRwe8uyXk5GQwln8V4qV3%2BI3AoXQSMJ5U324ExTROnX%2BC2JK2yhiRkazMN10juJfBc5nL1HDfe7p40GCuXIIzfY%2BCuaxByBrLOTLo%2FaXJ9kW9YiP%2F9NMpoXV6d3JJZwGKeVaa7KDOY8uPwRAZeffZufuXdKyZKltJeg%3D%3D&response-content-disposition=attachment%3B+filename%3Dtrain.zip
+testing :
+https://storage.googleapis.com/kagglesdsdata/competitions/3362/31148/test1.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1640149532&Signature=Qf2jWQycOlSLwK1fmuPT9evBIjSyBaW3acbiLoalvbtPd5cfSc2WYFKwgjkR0Xtl%2BzzjP0OCbkU9T0ICNNjxHyRKPOVkg7485OpOdmM207h1owo8smbRZBayEWpgDDRGwuXCWE%2B2MDbr08CmPdTqijHsz%2FAS9QyHsMgL8NLrdtoLuzfZ%2Br4sb6SUuZ4P%2BnmqGlgaCqSpGXIoibnAn9fZQ5cMuUJ%2FpfG0EIgQuM6kpXZ%2FdTpBcE3CP1mK6bxrr1T4AX0pc%2FZKlfJj4rHb4XQgOYwp5%2FYq38hnuNAvpPhgdwD4DjjjygVsw9hQoxiPUyOpVQI3I8xsAbmZRV373H0rZQ%3D%3D&response-content-disposition=attachment%3B+filename%3Dtest1.zip
+
+
 ### channel : 
 In case B/W image we can represent in a 2D matrix where each of the cell contains a specific value form 
 0-255.But in case of a color image the representation should be different,**(height*width*channel)**.
