@@ -1,0 +1,4 @@
+Neural style transfer is a computer vision technology that recreates the content of one image in the style of 
+the other image. It is an application of a Generative Adversarial Network (GAN). Here, we take two images – a 
+content image and a style reference image and blend
+them together such that the output image looks like a content image painted in the style of the reference image.
